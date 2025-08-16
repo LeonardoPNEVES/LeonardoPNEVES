@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Leonardo Paulino
+# 🖥️ Leonardo Paulino
 
 **`Desenvolvedora FullStack`**
 
@@ -7,21 +7,45 @@ Me chamo Leonardo Paulino, tenho 25 anos, sou natural do Brasil e atualmente est
 Meu foco é o desenvolvimento Back-End em Java, mas também estou expandindo meus conhecimentos em tecnologias de Front-End, visando uma atuação completa como desenvolvedor.
 
 <p align="left">
-    <a href="https://github.com/LeonardoPNEVES/LeonardoPNEVES">
+    </a> 
+    <a href="https://github.com/LeonardoPNEVES?tab=repositories?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/LeonardoPNEVES?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/LeonardoPNEVES?tab=followers">
+    <a href="https://github.com/Larissakich?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/LeonardoPNEVES?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+  <a href="https://www.linkedin.com/in/leonardo-paulino-a91760375" target="_blank">
+    <img 
+        alt="LinkedIn" 
+        title="Vamos nos conectar" 
+        src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"
+    />
+</a>
+
+    
+        
+
+
+         
+      
+          
+    
+          
+          
+          
+   
 </p>
+
+
+
 
 ---
 
@@ -37,12 +61,20 @@ Meu foco é o desenvolvimento Back-End em Java, mas também estou expandindo meu
 />
 <img 
     align="left" 
-    alt="Spirng" 
+    alt="Spring" 
     title="Spring"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
     />
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+    
 
 
 
@@ -99,6 +131,9 @@ Meu foco é o desenvolvimento Back-End em Java, mas também estou expandindo meu
 
 <br/>
 <br/>
+
+---
+
 
 ### 📊 Estatísticas
 
