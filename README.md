@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Leonardo Paulino, tenho 25 anos, sou natural do Brasil e atualmente estou cursando a formação de Desenvolvedor Full Stack em Java pela EBAC.
+Me chamo Leonardo Paulino, tenho 25 anos, sou natural do São Paulo e atualmente estou cursando a formação de Desenvolvedor Full Stack em Java pela EBAC.
 
 Meu foco é o desenvolvimento Back-End em Java, mas também estou expandindo meus conhecimentos em tecnologias de Front-End, visando uma atuação completa como desenvolvedor.
 
